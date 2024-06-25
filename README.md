@@ -8,7 +8,3 @@ Simple App using sockets.
 For developer mode use following commands
 * `npm install`
 * `npm start`
-
-For Production mode run following commands
-* `npm run build` → Generate Build ts to js
-* `npm run start` → To start up application
